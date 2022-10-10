@@ -27,4 +27,4 @@ Have fun!
 - [Class Diagram](UML/Class%20Diagram.pdf)
 - [CRC Diagram](UML/CRC.pdf)
 <br><br><br>
-###### With regards,<br>Prajjwal Singh.
+###### With regards,<br>Vikash Kumar Mishra.
